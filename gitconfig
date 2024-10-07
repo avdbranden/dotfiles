@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = avdbranden@gmail.com
+	name = Adrien van den Branden
